@@ -16,8 +16,8 @@ Step 5: Design layout in activity_main.xml Step 6: Display message give in MainA
 ~~~
 /*
 Program to print the text “Implicitintent”.
-Developed by:V R Anu Ayshwarya
-Registeration Number :212221040016
+Developed by:R.K Pragalyaa shree
+Registeration Number :212221040125
 */
 ~~~
 
